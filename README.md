@@ -2,7 +2,7 @@
 
 Follow these instruction to deploy this example:
 
-1. git clone https://github.com/Gajotres/IonicShareDataBetweenPages.git
+1. git clone https://github.com/Gajotres/IonicFirstApplicationExample.git
 2. cd IonicShareDataBetweenPages
 3. ionic cordova platform add android
 4. npm install
